@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:16:1-67:12
+INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:16:1-67:12
+INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:16:1-67:12
+MERGED from [com.android.support:design:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\8e268b058d1000a314d45b563c88ac07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\92eade6b74eee721472946c49284d951\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\10d78b6f8c30ffa80cf7d18b839ab759\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\aa29001326fa2c6a0af1b1dc58bd2333\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Android\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\3bd5811aa77ebfdc26ab42621ad188f9\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e875572f1b6f5a7314fdb7d044c237b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\321a191b03e7fb0b86e5857805f78ed8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ff2029c870ba6d8a9a4d72a6dfcf1994\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\23e8a60cdefc2c8f95ce128fa65cdd73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\283fc90bbae5b5bfbb62fb3449d62cc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\26421af0250bb6ab7eb7c7078aff6050\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6325b430c565a32b3ca5ecdad6642cdc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9991f8955f4a45c9d4eaad2aff1bef8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f2236c739bfeab5b0027bcf40828250e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\fd302e4ca178c3e3a75a87dd555792fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3cd77676db8482a9aa1d8d5be128e166\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ad081552591a648e811f9408a60d8859\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3ecb1a170eb5b14cdb65ca8cae801cbc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b9fc559e80e92513c162a6b4e4c95f08\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\babb186b9cba4486e88a0fea91d1bb06\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:16:1-67:12
+INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:16:1-67:12
+	package
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:17:5-50
+	android:versionName
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:30:5-32:35
+	android:required
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:32:9-32
+	android:name
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:31:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:35:5-74
+	android:name
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:35:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:36:5-81
+	android:name
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:36:22-78
+application
+ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:38:5-65:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\10d78b6f8c30ffa80cf7d18b839ab759\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\10d78b6f8c30ffa80cf7d18b839ab759\AndroidManifest.xml:9:5-20
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Android\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\3bd5811aa77ebfdc26ab42621ad188f9\AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Android\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\3bd5811aa77ebfdc26ab42621ad188f9\AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:40:9-41
+	android:icon
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:39:9-45
+	android:theme
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:41:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:42:9-51:20
+	android:label
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:43:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:49:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:52:9-59
+	android:name
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:52:19-56
+activity#com.example.android.bluetoothlegatt.TabApp
+ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:54:9-58:20
+	android:label
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:56:13-45
+	android:theme
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:55:13-35
+activity#com.example.android.bluetoothlegatt.MeasurementTab
+ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:59:9-52
+	android:name
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:59:19-49
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:61:9-63:38
+	android:enabled
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:63:13-35
+	android:name
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml:62:13-47
+uses-sdk
+INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\8e268b058d1000a314d45b563c88ac07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\8e268b058d1000a314d45b563c88ac07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\92eade6b74eee721472946c49284d951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\92eade6b74eee721472946c49284d951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\10d78b6f8c30ffa80cf7d18b839ab759\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\10d78b6f8c30ffa80cf7d18b839ab759\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\aa29001326fa2c6a0af1b1dc58bd2333\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\aa29001326fa2c6a0af1b1dc58bd2333\AndroidManifest.xml:20:5-44
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Android\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\3bd5811aa77ebfdc26ab42621ad188f9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Android\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\3bd5811aa77ebfdc26ab42621ad188f9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e875572f1b6f5a7314fdb7d044c237b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\e875572f1b6f5a7314fdb7d044c237b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\321a191b03e7fb0b86e5857805f78ed8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\321a191b03e7fb0b86e5857805f78ed8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ff2029c870ba6d8a9a4d72a6dfcf1994\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ff2029c870ba6d8a9a4d72a6dfcf1994\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\23e8a60cdefc2c8f95ce128fa65cdd73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\23e8a60cdefc2c8f95ce128fa65cdd73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\283fc90bbae5b5bfbb62fb3449d62cc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\283fc90bbae5b5bfbb62fb3449d62cc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\26421af0250bb6ab7eb7c7078aff6050\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\26421af0250bb6ab7eb7c7078aff6050\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6325b430c565a32b3ca5ecdad6642cdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6325b430c565a32b3ca5ecdad6642cdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9991f8955f4a45c9d4eaad2aff1bef8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9991f8955f4a45c9d4eaad2aff1bef8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f2236c739bfeab5b0027bcf40828250e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f2236c739bfeab5b0027bcf40828250e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\fd302e4ca178c3e3a75a87dd555792fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\fd302e4ca178c3e3a75a87dd555792fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3cd77676db8482a9aa1d8d5be128e166\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Android\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3cd77676db8482a9aa1d8d5be128e166\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ad081552591a648e811f9408a60d8859\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ad081552591a648e811f9408a60d8859\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3ecb1a170eb5b14cdb65ca8cae801cbc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3ecb1a170eb5b14cdb65ca8cae801cbc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b9fc559e80e92513c162a6b4e4c95f08\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b9fc559e80e92513c162a6b4e4c95f08\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\babb186b9cba4486e88a0fea91d1bb06\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\babb186b9cba4486e88a0fea91d1bb06\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Public\Documents\Android_app\Android_EVA_app\Application\src\main\AndroidManifest.xml
